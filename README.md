@@ -1,2 +1,2 @@
 # dsa
-ugh im tryin
+ugh im trying
