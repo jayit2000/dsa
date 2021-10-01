@@ -1,3 +1,2 @@
 # dsa
-mic i got
-how
+very bad
